@@ -91,3 +91,7 @@ instrucciones que dan allí.
 
 Ahora toca ver el código de tus compañeros y dejar tus comentarios. Entra al
 proyecto de un compañero y haz 3 sugerencias de su código usando **Issues**.
+
+#### Puedes ver el proyecto en el siguiente link:
+
+http://abelmon.github.io/frontend-blog
